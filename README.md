@@ -15,8 +15,5 @@ FreshBite est un site web fictif simple pour un restaurant proposant des repas f
 - Validation du formulaire : Vérifie les champs nom, email et message, affiche des messages d'erreur.
 # Limitations Connues
 - Pas d'envoi réel du formulaire (simulation via alert).
-- Hébergement : Déployez sur GitHub Pages pour un lien public.
-Pour héberger via GitHub Pages :
-1. Créez un repo GitHub avec ces fichiers.
-2. Allez dans Settings > Pages > Source: main branch.
-3. Ajoutez le lien ici une fois disponible.
+# Hebergement : 
+- public.
